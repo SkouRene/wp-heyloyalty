@@ -13,7 +13,7 @@ Integrates wordpress with heyloyalty email marketing platform
 == Description ==
 
 Integrates wordpress with heyloyalty email marketing platform
-g
+
 == Installation ==
 
 == Frequently Asked Questions ==
